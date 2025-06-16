@@ -1,0 +1,68 @@
+.vs/
+appsettings.json
+#################################
+# Build Folders
+#################################
+bin/
+obj/
+out/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+#################################
+# User-specific files
+#################################
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+#################################
+# VS Code / Rider / JetBrains
+#################################
+.vscode/
+.idea/
+*.sln.iml
+
+#################################
+# Logs
+#################################
+*.log
+logs/
+
+#################################
+# OS-specific
+#################################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#################################
+# ASP.NET Core Secrets & Settings
+#################################
+appsettings.Development.json
+appsettings.*.json
+secrets.json
+.env
+
+#################################
+# NuGet
+#################################
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+#################################
+# Others
+#################################
+*.bak
+*.tmp
+*.swp
+*.db
+
+
